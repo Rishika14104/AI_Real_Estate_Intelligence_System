@@ -233,6 +233,3 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
 ---
 
-## ⭐ If you found this project useful
-
-Please consider giving this repository a ⭐ on GitHub.
