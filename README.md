@@ -233,3 +233,10 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
 
 ---
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c9d35f06-1b79-47e9-828e-9dbd31e736d7" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b3698e8e-c48d-454a-b049-36f9e5a1da63" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0fb97ad5-3798-46a1-8563-91757f099ce1" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/acf6a20e-7cae-46ea-acd9-e382f1255749" />
